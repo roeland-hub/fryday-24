@@ -1,0 +1,9 @@
+.align-bottom {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer {
+    background-color: red;
+}
